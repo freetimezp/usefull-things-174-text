@@ -19,6 +19,8 @@ body {
     position: relative;
     width: 100vw;
     height: 100vh;
+    background: url(../images/bg.jpg) 50% 50% no-repeat;
+    background-size: cover;
     padding: 2em;
     display: flex;
     flex-direction: column;
@@ -56,34 +58,3 @@ body {
     display: inline-block;
     will-change: transform;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
